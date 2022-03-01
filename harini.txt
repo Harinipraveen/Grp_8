@@ -2,4 +2,7 @@
 Harini and Shakiba are my group members
 I am the third member of the team
 this is our first git assignment
-this is second line
+Hi!
+
+
+
