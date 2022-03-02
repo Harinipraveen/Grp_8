@@ -1,2 +1,5 @@
 my name is Olamide Adu Michael
+- this will be another line entirely
+God at work, I am a religious man
 echo this is 2nd line
+
