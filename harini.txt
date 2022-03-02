@@ -1,2 +1,6 @@
 this is our first git assignment
+<<<<<<< HEAD
 this is develop phase
+=======
+this is second line
+>>>>>>> 89f971c9d36f7be1bb13e51ebfc3f57ec49dc77e
