@@ -8,3 +8,4 @@ Harini added a line as an example
 adding a last line for the assignment
 Hi!
 
+the merge file is harini.tx
