@@ -4,4 +4,7 @@ I am the third member of the team
 this is our first git assignment
 this is develop phase
 this is second line
+Harini added a line as an example
+adding a last line for the assignment
 Hi!
+
